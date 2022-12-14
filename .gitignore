@@ -1,0 +1,8 @@
+lambda
+.env
+node_modules
+venv
+.DS_Store
+
+# Local Netlify folder
+.netlify
